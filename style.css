@@ -7,14 +7,14 @@ table, tr, th, td{
 }
 
 .changeColor{
-    position: relative;
-    left: 340px;
+    
+   
     border: 2px solid black;
     color: white;
     background-color: black;
     height: 50px;
     width: 200px;
-    text-align: center;
+    
 }
 
 .changeColor:hover{
